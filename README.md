@@ -1,7 +1,7 @@
 NETFLIX GPT
 
-Create React App
-configure tailwindCSS
+- Create React App
+- Configure tailwindCSS
 
 
 
